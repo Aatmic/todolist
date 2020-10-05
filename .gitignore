@@ -1,3 +1,4 @@
+# All the files preset below are the files are to be ignored while uploading the preject on GitHub.
 /node_modules
 npm-debug.log
 .DS_Store
